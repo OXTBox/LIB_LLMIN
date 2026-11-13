@@ -1,0 +1,14 @@
+*:Zone.Identifier
+.DS_Store
+# the inbox is passing data: only the inbox's own READMEs and layout are kept
+/*
+!/.gitignore
+!/README.md
+!/xtalk_py/
+/xtalk_py/*
+!/xtalk_py/toCorpus/
+!/xtalk_py/fromXJSON/
+/xtalk_py/toCorpus/*
+/xtalk_py/fromXJSON/*
+!/xtalk_py/toCorpus/README.md
+!/xtalk_py/fromXJSON/README.md
