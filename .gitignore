@@ -4,6 +4,7 @@
 /*
 !/.gitignore
 !/README.md
+!/LICENSE
 !/xtalk_py/
 /xtalk_py/*
 !/xtalk_py/toCorpus/

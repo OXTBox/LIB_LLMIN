@@ -17,3 +17,7 @@ Any other project: make a folder with its name.
 
 **The rule:** once Claude has read something and acted on it, it MOVES to
 `../LIB_LLMOUT/Read/<same folder>/`. What is left here is still waiting.
+
+## Licence
+
+GPL-3.0 (see `LICENSE`), because the xTalk work here is built on the GPL-licensed LiveCode Community 9 engine. Copyright (c) 2026 xAction.
